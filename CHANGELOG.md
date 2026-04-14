@@ -1,5 +1,21 @@
 # Changelog
 
+## [2026.4.12](https://github.com/jdx/mise/compare/v2026.4.11..v2026.4.12) - 2026-04-14
+
+### 📦 Aqua Registry Updates
+
+#### New Packages (4)
+
+- [`IBM-Cloud/ibm-cloud-cli-release`](https://github.com/IBM-Cloud/ibm-cloud-cli-release)
+- [`micelio.dev/hif`](https://github.com/micelio.dev/hif)
+- [`pgplex/pgschema`](https://github.com/pgplex/pgschema)
+- [`trzsz/trzsz-go`](https://github.com/trzsz/trzsz-go)
+
+#### Updated Packages (2)
+
+- [`mvdan/sh`](https://github.com/mvdan/sh)
+- [`temporalio/temporal`](https://github.com/temporalio/temporal)
+
 ## [2026.4.11](https://github.com/jdx/mise/compare/v2026.4.10..v2026.4.11) - 2026-04-13
 
 ### 🐛 Bug Fixes
